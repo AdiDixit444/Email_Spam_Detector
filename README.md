@@ -60,14 +60,14 @@ This project performs end-to-end spam classification by preprocessing text data,
 - Remove stopwords
 - Perform stemming
 - Prepare clean text for training
-- <img width="597" height="435" alt="image" src="https://github.com/user-attachments/assets/c91af6d0-a60f-4d6f-af2c-75a7cc390269" />
+<img width="597" height="435" alt="image" src="https://github.com/user-attachments/assets/c91af6d0-a60f-4d6f-af2c-75a7cc390269" />
 <img width="602" height="451" alt="image" src="https://github.com/user-attachments/assets/7b9930d0-b3cd-4646-a094-a6048d85d513" />
 
 
 ### 3. Data Visualization
-- Generate WordCloud for spam messages
 - Generate WordCloud for ham messages
--<img width="593" height="308" alt="image" src="https://github.com/user-attachments/assets/e2316ae4-bebb-49a0-8aab-6a1c05f2d5e5" />
+- Generate WordCloud for spam messages
+<img width="593" height="308" alt="image" src="https://github.com/user-attachments/assets/e2316ae4-bebb-49a0-8aab-6a1c05f2d5e5" />
 <img width="612" height="306" alt="image" src="https://github.com/user-attachments/assets/70794c60-94a6-423b-84c0-da16ac65c93e" />
 
 
